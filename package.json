@@ -1,0 +1,9 @@
+{
+  "name": "data-structures",
+  "author": "Hugo LORENT",
+  "license": "ISC",
+  "devDependencies": {
+    "tsx": "^4.16.2",
+    "typescript": "^5.5.3"
+  }
+}
